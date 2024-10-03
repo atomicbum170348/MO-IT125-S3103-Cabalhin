@@ -1,6 +1,6 @@
 # MO-IT125-S3103-Cabalhin
 Math for Machine Learning: Linear Algebra
-
+***************************************************************************************************************************************************************************************
 Problem Statement: FinMark Corporation has a wealth of data collected from various sources, including customer transactions, social media interactions, and demographic information. 
 However, the company struggles to derive meaningful insights due to data overload and inconsistencies. 
 The current customer segmentation strategies are outdated, and there is a lack of clarity on market trends and customer behaviors.
@@ -10,12 +10,12 @@ The composition of the machine learning solution is as follows:
 1. Exploratory Data Analysis (EDA) - explores the main characteristics of the collected data, identifies key patterns, and detects anomalies in the FinMark Corporation datasets.
 2. Data Visualization -  discovers relationships between variables and identifies patterns and trends in the FinMark Corporation datasets.
 3. Presentation of Machine Learning Solution Project - a presentation of your development process and findings.
-
+***************************************************************************************************************************************************************************************
 Datasets:
 'customer_demographics_contaminated.csv', 
 'customer_transactions_contaminated.csv', and
 'social_media_interactions_contaminated.csv' 
-
+***************************************************************************************************************************************************************************************
 Tools:
 MS Excel,
 Python3,
@@ -25,14 +25,16 @@ Anaconda Navigator,
 Jupyter Notebook,
 Matplotlib, and
 Seaborn
-
+***************************************************************************************************************************************************************************************
 Preprocessing:
 
+
+***************************************************************************************************************************************************************************************
 Homework: Draft of Data Preprocessing of Machine Learning Solution Project Dataset
 a. Check for duplicate rows and remove them.
 b. Identify columns with missing values and decide how to handle them.
 c. Ensure columns have the appropriate data types.
-
+***************************************************************************************************************************************************************************************
 Draft of Milestone 1: Exploratory Data Analysis (EDA) of Machine Learning Solution Project
 I. Introduction
 Introduce the dataset and the purpose of the Exploratory Data Analysis. Write this section by answering the following guide questions:
@@ -75,7 +77,7 @@ Upload the Python code for the Exploratory Data Analysis to your Github Reposito
 
 2. Reference No. 2
    Reference : Exploratory Data Analysis (EDA)
-
+***************************************************************************************************************************************************************************************
 
 
 
