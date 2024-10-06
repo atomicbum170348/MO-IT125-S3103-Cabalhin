@@ -1,5 +1,5 @@
 # MO-IT125-S3103-Cabalhin
-Math for Machine Learning: Linear Algebra
+MO-IT125 - Math for Machine Learning: Linear Algebra
 ***************************************************************************************************************************************************************************************
 Problem Statement: FinMark Corporation has a wealth of data collected from various sources, including customer transactions, social media interactions, and demographic information. 
 However, the company struggles to derive meaningful insights due to data overload and inconsistencies. 
@@ -26,16 +26,13 @@ Jupyter Notebook,
 Matplotlib, and
 Seaborn
 ***************************************************************************************************************************************************************************************
-Preprocessing:
-
-
-***************************************************************************************************************************************************************************************
+Preprocessing
 Homework: Draft of Data Preprocessing of Machine Learning Solution Project Dataset
 a. Check for duplicate rows and remove them.
 b. Identify columns with missing values and decide how to handle them.
 c. Ensure columns have the appropriate data types.
 ***************************************************************************************************************************************************************************************
-Draft of Milestone 1: Exploratory Data Analysis (EDA) of Machine Learning Solution Project
+Milestone 1: Exploratory Data Analysis (EDA) of Machine Learning Solution Project
 I. Introduction
 Introduce the dataset and the purpose of the Exploratory Data Analysis. Write this section by answering the following guide questions:
 1. What is the dataset about? Provide a brief overview. - The dataset contains information related to customer demographics, transactions, and social media interactions at FinMark Corporation.
@@ -49,15 +46,15 @@ Introduce the dataset and the purpose of the Exploratory Data Analysis. Write th
 II. Dataset Overview
 Describe the basic characteristics and structure of the dataset. Write this section by answering the following guide questions:
 1. How many variables (columns) and observations (rows) does the dataset contain? 
-‘customer_demographics_contaminated.csv’:
-Number of Variables/Columns: 6;
-Number of Observations/Rows: 3200
- ‘customer_transactions_contaminated.csv’:
-Number of Variables/Columns: 6;
-Number of Observations/Rows: 3200
-‘social_media_interactions_contaminated.csv’:
-Number of Variables/Columns: 6;
-Number of Observations/Rows: 3200
+   ‘customer_demographics_contaminated.csv’:
+      Number of Variables/Columns: 6;
+      Number of Observations/Rows: 3200
+    ‘customer_transactions_contaminated.csv’:
+      Number of Variables/Columns: 6;
+      Number of Observations/Rows: 3200
+   ‘social_media_interactions_contaminated.csv’:
+      Number of Variables/Columns: 6;
+      Number of Observations/Rows: 3200
 2. What are each variable's data types (numeric, categorical, etc.)?
 3. Are there any initial observations or peculiarities about the dataset's structure?
 
