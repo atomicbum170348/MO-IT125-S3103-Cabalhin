@@ -1,1 +1,12 @@
+Cleaned datasets from different phases of the project:
+
+First phase of deduplication:
+1. customer_demographics_cleaned_phase1.csv
+2. customer_transactions_cleaned_phase1.csv
+3. social_media_interactions_cleaned_phase1.csv
+
+Second phase deduplication:
+1. customer_demographics_cleaned_phase2.csv
+2. customer_transactions_cleaned_phase2.csv
+3. social_media_interactions_cleaned_phase2.csv
 
