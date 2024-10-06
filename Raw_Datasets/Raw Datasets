@@ -1,5 +1,5 @@
 Files downloaded from client's website: https://sites.google.com/mmdc.mcl.edu.ph/finmarkcorp/projects
 
-1. Customer Segments
-2. Customer Transactions
-3. Social Media Interactions
+  1. Customer Segments - customer_demographics_contaminated.csv
+  2. Customer Transactions - customer_transactions_contaminated.csv
+  3. Social Media Interactions - social_media_interactions_contaminated.csv
